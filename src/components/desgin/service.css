@@ -1,0 +1,59 @@
+#seric{
+    background-color: rgb(25, 25, 25);
+    height: 400px;
+}
+#ser_te{
+    color: white;
+    padding-top: 100px;
+    padding-left: 60px;
+    font-size: 100px;
+    
+}
+#ser_tl{
+    color: white;
+    font-size: 20px;
+    padding-left: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+#a{
+    color: white;
+
+}
+
+.web{
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.web_t{
+   
+    font-family: Arial, Helvetica, sans-serif;
+}
+ 
+#web_img{
+    opacity: 0.7;
+}
+
+#btn1{
+    background-color: black;
+    width: 150px;
+    padding: 15px;
+    border: 2px solid black;
+    border-radius: 40px;
+}
+
+
+.link1{
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+#web_img2{
+    opacity: 0.6;
+    width: 600px;
+    height: 500px;
+
+}
