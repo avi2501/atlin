@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/atlin/static/css/main.ecf34483.css",
+    "main.js": "/atlin/static/js/main.f9d4d6c9.js",
+    "static/js/453.3f7ce24f.chunk.js": "/atlin/static/js/453.3f7ce24f.chunk.js",
+    "static/media/pic3.jpg": "/atlin/static/media/pic3.4bafb0c7278963549e05.jpg",
+    "static/media/pic1.jpg": "/atlin/static/media/pic1.833ff7687eda085c6a6d.jpg",
+    "static/media/brading.jpeg": "/atlin/static/media/brading.dd0ee1422f4ab02c271d.jpeg",
+    "static/media/office.jpg": "/atlin/static/media/office.bc2873a716b272de3970.jpg",
+    "static/media/ai.jpg": "/atlin/static/media/ai.a1930f17d8c1cc75ab22.jpg",
+    "static/media/web_desgin.jpg": "/atlin/static/media/web_desgin.835de2be1af8a9ed756b.jpg",
+    "static/media/digital.jpg": "/atlin/static/media/digital.d07a013c41c029ccfcef.jpg",
+    "static/media/contact.png": "/atlin/static/media/contact.e10264efa4d113d18b45.png",
+    "static/media/logo.png": "/atlin/static/media/logo.3c0d18f2e71a3d193db5.png",
+    "static/media/let.png": "/atlin/static/media/let.fb83c26f8300adedd3f5.png",
+    "index.html": "/atlin/index.html",
+    "main.ecf34483.css.map": "/atlin/static/css/main.ecf34483.css.map",
+    "main.f9d4d6c9.js.map": "/atlin/static/js/main.f9d4d6c9.js.map",
+    "453.3f7ce24f.chunk.js.map": "/atlin/static/js/453.3f7ce24f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecf34483.css",
+    "static/js/main.f9d4d6c9.js"
+  ]
+}
